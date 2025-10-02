@@ -1,0 +1,17 @@
+__pycache__/
+*.h5mu
+*.h5ad
+*.pkl
+*.pt
+*.gz
+
+# outdated script
+setup.sh
+data/scenic/
+
+dask-worker-space/
+slurm/
+# figure can be regenerated
+figures/*
+# thresholdpy can be fetched from https://github.com/jonesr18/ThresholdPy
+thresholdpy/*
