@@ -8,7 +8,7 @@ Codes for processing and analyzing single-cell omics data for Jones & Salim et a
 ```bash
 git clone https://github.com/jonesr18/ThresholdPy
 ```
-3. Download .h5md data from https://doi.org/10.17632/k3xtwnzpyn.1 and put into `/data/` folder
+3. Download .h5md data from https://doi.org/10.17632/k3xtwnzpyn.2 and put into `/data/` folder
 
 
 ## External links
